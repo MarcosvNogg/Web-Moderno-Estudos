@@ -10,3 +10,5 @@ O que estou aprendendo?
 -Ajax
 -Vue.js
 -Angular
+-git
+-gitHub
