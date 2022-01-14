@@ -1,9 +1,12 @@
-Git Course
+Curso Web Moderno Cod3r Udemy
 
-Este é um repositório teste para ensinar como o Git Funciona.
+Este repositório é dedicado única e exclusivamente aos estudos e projetos referentes ao curso que estou realizando no momento.
 
-O curso que estou estudando é o: Git e Github para iniciantes do Willian Justen -Udemy.
-
-O curso permanesce em andamanto, estou gostando do conteúdo.
-
-Primeiro Commit
+O que estou aprendendo?
+-JavaScript
+-HTML
+-CSS
+-NodeJS
+-Ajax
+-Vue.js
+-Angular
